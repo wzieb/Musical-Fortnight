@@ -1,5 +1,7 @@
 # ReadMe Generator
 
+Link to deployed video --> https://app.screencastify.com/v2/manage/videos/PcrqBjtIWWmtquT0ZNeL
+
   ## Table of Contents 
 
 - [Installation](#installation)
